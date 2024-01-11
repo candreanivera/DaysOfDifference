@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bydsMUvioJjODBgkuj3WV1MWriRcCD/HWpB/0BuJYoY1B9BE1jcgT8zCglgxUmoBkHB2f8OVPVeBQAEAzkqAQg==",
+  "dgSpecHash": "iDI6lVthuBbv358S3lmg/Zq6RK5JWIn9g61CdWmL8JCKuHSSGFlVze4nw2OS5S0YbfEONOatnvgq6W1dj5QlNg==",
   "success": true,
-  "projectFilePath": "C:\\Project.Net\\exercise1\\exercise1.csproj",
+  "projectFilePath": "C:\\DaysOfDifference\\exercise1.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

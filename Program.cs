@@ -5,22 +5,22 @@ using System.Diagnostics;
 Stopwatch timeMeasure = new Stopwatch();
 timeMeasure.Start();
 
-String answer = " ";
+String answer = "";
+DateTime today = DateTime.Today;
+
 do {
     //Ask for a date from the user.
-    Console.WriteLine("Insert the date you want to calculate. Write 'exit' to finish.");
+    Console.WriteLine("Insert the date you want to calculate. Or Write 'exit' to finish.");
     answer = Console.ReadLine();
     //If the answer is "break", the program finishes
     if(answer == "exit"){
         break;
     }
-    Console.WriteLine($"The text introduced was: {answer}");
+    //Console.WriteLine($"The date introduced was: {answer}");
 
     //Formating the date introduced:
     DateTime result;
     if (DateTime.TryParse(answer, out result)){
-        Console.WriteLine($"The date {answer} was formated to {result}");
-        DateTime today = DateTime.Today;
         Console.WriteLine($"The date of today is: {today}");
 
         if (today == result) {
@@ -29,11 +29,11 @@ do {
             switch (today > result){
                 case true: 
                     TimeSpan difference = today - result;
-                    Console.WriteLine($"The difference of the date is: {difference}");
+                    Console.WriteLine($"That date was {difference.Days} days ago");
                     break;
                 case false:
                     TimeSpan difference2 = result - today;
-                    Console.WriteLine($"The difference of the date is: {difference2}");
+                    Console.WriteLine($"That date will be in {difference2.Days} days");
                     break;
                     Console.WriteLine($"The day is today!");
                     break;

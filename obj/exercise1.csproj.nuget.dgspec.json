@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Project.Net\\exercise1\\exercise1.csproj": {}
+    "C:\\DaysOfDifference\\exercise1.csproj": {}
   },
   "projects": {
-    "C:\\Project.Net\\exercise1\\exercise1.csproj": {
+    "C:\\DaysOfDifference\\exercise1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Project.Net\\exercise1\\exercise1.csproj",
+        "projectUniqueName": "C:\\DaysOfDifference\\exercise1.csproj",
         "projectName": "exercise1",
-        "projectPath": "C:\\Project.Net\\exercise1\\exercise1.csproj",
+        "projectPath": "C:\\DaysOfDifference\\exercise1.csproj",
         "packagesPath": "C:\\Users\\cris\\.nuget\\packages\\",
-        "outputPath": "C:\\Project.Net\\exercise1\\obj\\",
+        "outputPath": "C:\\DaysOfDifference\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cris\\AppData\\Roaming\\NuGet\\NuGet.Config"
