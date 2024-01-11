@@ -1,0 +1,15 @@
+C:\Project.Net\exercise1\bin\Debug\net8.0\exercise1.exe
+C:\Project.Net\exercise1\bin\Debug\net8.0\exercise1.deps.json
+C:\Project.Net\exercise1\bin\Debug\net8.0\exercise1.runtimeconfig.json
+C:\Project.Net\exercise1\bin\Debug\net8.0\exercise1.dll
+C:\Project.Net\exercise1\bin\Debug\net8.0\exercise1.pdb
+C:\Project.Net\exercise1\obj\Debug\net8.0\exercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project.Net\exercise1\obj\Debug\net8.0\exercise1.AssemblyInfoInputs.cache
+C:\Project.Net\exercise1\obj\Debug\net8.0\exercise1.AssemblyInfo.cs
+C:\Project.Net\exercise1\obj\Debug\net8.0\exercise1.csproj.CoreCompileInputs.cache
+C:\Project.Net\exercise1\obj\Debug\net8.0\exercise1.sourcelink.json
+C:\Project.Net\exercise1\obj\Debug\net8.0\exercise1.dll
+C:\Project.Net\exercise1\obj\Debug\net8.0\refint\exercise1.dll
+C:\Project.Net\exercise1\obj\Debug\net8.0\exercise1.pdb
+C:\Project.Net\exercise1\obj\Debug\net8.0\exercise1.genruntimeconfig.cache
+C:\Project.Net\exercise1\obj\Debug\net8.0\ref\exercise1.dll
