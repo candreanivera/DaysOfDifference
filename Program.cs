@@ -26,15 +26,16 @@ do {
         if (today == result) {
             Console.WriteLine($"The day is today!");
         } else {
+            TimeSpan difference = today - result;
             switch (today > result){
                 case true: 
-                    TimeSpan difference = today - result;
+                    
                     Console.WriteLine($"That date was {difference.Days} days ago");
                     break;
                 case false:
-                    TimeSpan difference2 = result - today;
-                    Console.WriteLine($"That date will be in {difference2.Days} days");
+                    Console.WriteLine($"That date will be in {-difference.Days} days");
                     break;
+                
                     Console.WriteLine($"The day is today!");
                     break;
             }
